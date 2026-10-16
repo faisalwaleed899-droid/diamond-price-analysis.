@@ -1,0 +1,6 @@
+# some are the dependency
+matplotlib                3.10.8
+numpy                     2.4.2
+pandas                    3.0.6 
+plotly                    7.1.0
+streamlit                 1.66.0
